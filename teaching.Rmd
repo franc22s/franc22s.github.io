@@ -1,0 +1,19 @@
+---
+title: "Teaching Experience"
+output: html_document
+---
+  
+### Courses
+
+**Sociology of Gender (Summer 2020)**  
+Department of Sociology, Penn State University  
+[Syllabus]()
+
+
+### Guest Lectures
+
+**Teaching Assistant and Guest Lecturer (2018): **   
+Department of Sociology, Penn State University  
+Course: Gender and Social Psychology  
+Lectures: *“Cyber Aggression on Twitter: An Intersectional Perspective”*   
+Instructor: Dr. Diane H. Felmlee  

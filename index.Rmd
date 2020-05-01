@@ -1,0 +1,18 @@
+---
+title: "Home"
+---
+
+
+<img src="images/IMG_8604.JPG" style="width:25%; margin-right: 20px" align="left">
+
+Hello!
+
+I am a dual-title Ph.D. candidate in **[Sociology](https://sociology.la.psu.edu/)** and **[Social Data Analytics](https://soda.la.psu.edu/)** dual program at the Pennsylvania State University. Prior to arriving at Penn State, I obtained my bachelor degree from Mount Holyoke College in Mathematics and History. I expect to graduate in **May 2021**.
+
+My areas of interests are Social Networks, Race, Gender, and Health Disparities. Methodologically, my research focuses on computational social science, natural language process (e.g. Text Mining, quantitative text analysis), Social Networks, and GIS. 
+
+Currently, much of my research focuses on aggression on Twitter. My dissertation explores the usage of social media and its influence on mental health and its function in relation the spread and content of information. It substantially focuses on the social movement, Black Lives Matter. 
+
+I use R, Python, and ArcGIS in my research.
+
+My full CV is available **[here](files/2020.03_francisco_academic CV.pdf)**.

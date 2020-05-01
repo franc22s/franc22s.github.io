@@ -1,0 +1,23 @@
+---
+title: "Research"
+output: html_document
+---
+
+  
+### Publications
+
+Gauthier, Robin, **Sara Francisco**, and Kirk Dombrowski. (2018).  “Social Integration and Domestic Violence support in an indigenous community: Women’s recommendations of formal versus informal sources of support.” *Journal of Interpersonal Violence*   
+
+Felmlee, Diane, Paulina Inara Rodis, and **Sara Chari Francisco**. (2018). What a b!tch!: Cyber aggression towards women of color. In Vasilikie Demos & Marcia Texler Segal (Eds.), *Advances in gender research: Gender and the Media. Elsevier*. ***Received Literati Award**
+
+  
+### Research in Progress
+
+**Francisco, Sara**, Diane Felmlee. “Cyber Aggression Towards Black and Latinx Women: A Network Topic Analysis.”  Under review with *Information, Communication and Society*.  
+
+Freelin, Brittany, **Sara Francisco**.  “Tweeting Worlds: Neighborhood Segregation and Twitter Data.”  
+
+Park, Hyun Joon, **Sara Francisco**, Rosemary Pang, Lulu Peng, Guangqing Chi. “Predicting Black’s Health Outcome with Stances Toward #BlackLivesMatter.”  
+
+**Francisco, Sara**, Diane Felmlee. “A theoretical perspective on Tariff Sanctions.”
+

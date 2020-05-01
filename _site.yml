@@ -1,0 +1,21 @@
+name: "Sara Francisco Academic"
+navbar:
+  title: "Sara Francisco"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+
+  right:
+    - icon: fa-envelope fa-lg
+      mailto: scf7@psu.edu
+    - icon: fa-github fa-lg
+      href: http://github.com/franc22s
+      
+  output:
+    html_document:
+      theme: paper
+      css: 'styles.css'
